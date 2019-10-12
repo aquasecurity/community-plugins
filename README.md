@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your own repository settings.
-[Repo Settings](repo_settings_arrow_image.png)
+![Repository Settings](repo_settings_arrow_image.png)
 
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
